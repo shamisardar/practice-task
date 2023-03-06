@@ -9,10 +9,10 @@
     flex-direction: row;
     justify-content: space-around;
     padding-top: 120px;
-    border-bottom-right-radius: 30%;
-    background-image: linear-gradient(rgba(230, 237, 239, 0.97), rgba(225, 228, 229, 0.97), rgba(233, 237, 237, 0.97));
-    background-position: 30% 40%;
-    background-size: 95% 95%;
+    border-bottom-right-radius: 20%;
+    border-bottom-left-radius: 80%;
+    background-image: linear-gradient(to right bottom, #fbfefe, #fafdfd, #f8fcfd, #f7fbfc, #f6fafc, #f4f8f9, #f1f5f7, #eff3f4, #eaeeef, #e6e9e9, #e1e4e4, #dddfdf);    background-size: 60% 100%;
+    background-position: 100% 100%;
     background-repeat: no-repeat;
 }
 .catch{
@@ -81,6 +81,23 @@
     display: flex;
     flex-direction: row;
     justify-content: space-around;
+
+}
+.sec-2{
+    background-image: linear-gradient(to bottom, #fbfefe, #f9fbfc, #f7f8fa, #f5f6f7, #f3f3f4, #f0f1f1, #edeeef, #ebecec, #e7e9e9, #e4e5e5, #e0e2e2, #dddfdf);    
+    background-size: 100% 100%;
+    background-position: 100% 100%;
+    border-top-right-radius: 90%;
+    border-top-left-radius: 100%;
+    background-repeat: no-repeat;
+}
+.sec-3{
+    border-bottom-right-radius: 20%;
+    border-bottom-left-radius: 100%;
+    background-image: linear-gradient(to top, #fbfefe, #f9fbfc, #f7f8fa, #f5f6f7, #f3f3f4, #f0f1f1, #edeeef, #ebecec, #e7e9e9, #e4e5e5, #e0e2e2, #dddfdf);
+    background-size: 100% 100%;
+    background-position: 100% 100%;
+    background-repeat: no-repeat;
 
 }
 .catch-01{
