@@ -1,0 +1,142 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.section-one{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-top: 120px;
+    border-bottom-right-radius: 30%;
+    background-image: linear-gradient(rgba(230, 237, 239, 0.97), rgba(225, 228, 229, 0.97), rgba(233, 237, 237, 0.97));
+    background-position: 30% 40%;
+    background-size: 95% 95%;
+    background-repeat: no-repeat;
+}
+.catch{
+    width: 45%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.img{
+    width: 45%;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.catch-1{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    line-height: 50px;
+    margin-top: -25px;
+}
+.app-stores{
+    width: 80%;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-top: 30px;
+}
+.img-app{
+    width: 200px;
+    height: auto;
+}
+.text-section-1{
+    line-height: 35px;
+}
+.text-section-1 h3{
+    font-size: 30px;
+    font-weight: 600;
+    letter-spacing: 3px;
+    word-spacing: 2px;
+    padding: 5px;
+}
+.text-section-1 p{
+    font-size: 30px;
+    font-weight: 200;
+    color: rgb(71, 71, 71);
+    letter-spacing: 1px;
+    word-spacing: 2px;
+}
+.img img{
+    width: 90%;
+    height: auto;
+}
+/* section 1 end */
+.section-one1{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+.catch-01{
+    line-height: 30px;
+    margin-bottom: 60px;
+}
+.catch-01 h3{
+    font-size: 30px;
+    font-weight: 600;
+    letter-spacing: 3px;
+    word-spacing: 2px;
+    padding-bottom: 20px;
+
+}
+.catch-01 p{
+    font-size: 30px;
+    font-weight: 200;
+    color: rgb(71, 71, 71);
+    letter-spacing: 1px;
+    word-spacing: 2px;
+}
+/* last section */
+.last-section{
+    width: 100%;
+    height: auto;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 70px 0px;
+}
+.h3{
+    font-size: 30px;
+    font-weight: 500;
+}
+.h5{
+    font-size: 22px;
+    font-weight: 500;
+}
+.link-con{
+    text-decoration: none;
+    color: aqua;
+}
+.link-con:hover{
+    color: red;
+}
+.any-que{
+    padding-top: 10px;
+    box-sizing: border-box;
+}
+.app-stores-end{
+    width: 35%;
+    height: auto;
+}
+.rep-img{
+    padding-top: 50px;
+}
+/* end */
